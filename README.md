@@ -1,4 +1,4 @@
 # tests-VCS
-Git Examples us
+Git Examples us updated
 
 line 1
